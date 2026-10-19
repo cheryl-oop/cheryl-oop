@@ -1,16 +1,18 @@
-## Hi there 👋
+## Heya!
+I'm a final-year Multimedia and Creative Technologies student at Erasmushogeschool Brussel, passionate about web development and creative digital experiences.
 
-<!--
-**cheryl-oop/cheryl-oop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# A little about Me
+I enjoy working on both frontend and backend development, combining technical problem-solving with creativity to build functional, user-friendly applications.
+I'm always eager to learn new technologies, explore different frameworks, and challenge myself through personal and academic projects.
 
-Here are some ideas to get you started:
+# Technologies and Tools I use
+- Frontend: HTML, CSS, JavaScript/Typescript, React
+- Backend: Node.js, PHP, Laravel
+- Databases: MongoDB
+Currently exploring: Vue.js and Angular.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Fun Facts
+- I speak Dutch, French & English.
+- I like to paint.
+- Baldur's Gate 3 is my favourite game at the moment!
+
